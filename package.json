@@ -1,0 +1,21 @@
+{
+  "name": "pratch",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "ci": "next build && next export && rm -rf out/_next",
+    "start": "next start"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.0.5",
+    "@types/react": "^16.9.35",
+    "next": "^9.4.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.9.3"
+  }
+}
