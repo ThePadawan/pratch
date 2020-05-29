@@ -16,6 +16,9 @@ class IndexPage extends Component<any, any, any> {
                 Menomote - a musical note quiz generator
               </a>
             </li>
+            <li>
+              <a href="//cog.prat.ch">COG - the combined graphics utility</a>
+            </li>
           </ul>
         </div>
       </>
